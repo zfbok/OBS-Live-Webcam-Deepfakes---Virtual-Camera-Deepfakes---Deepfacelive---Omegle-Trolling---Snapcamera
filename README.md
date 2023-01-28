@@ -19,6 +19,7 @@ Next if you have a RTX Nvidia Gpu Download Nvidia Broadcast https://www.nvidia.c
                                                      Now how to use the stuff
 How set pagefile
 open start menu Type performance Choose Adjust the appearance and performance of Windows In the new window go to the Advanced tab and under the Virtual memory section click on Change then click on main drive then click custom size and set both initial and maximum to like 40000 or higher and make sure both are the same then click okay then click apply then restart pc
+
 ![image](https://user-images.githubusercontent.com/74084396/215216371-e142fd29-cad8-435f-a79a-d87cd96e81e3.png)
 
 After PC Restart Open Obs Vcam Changer and set it to this exactly and after every obs update you might have to redo this
