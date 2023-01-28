@@ -44,7 +44,7 @@ Open DeepfaceLive.bat then after you open it up set the settings to this as a ba
                                     
                                     How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
 
-Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then inport it into obs 
+Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
 ![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
 
@@ -53,7 +53,7 @@ Then after you import the scene collection click on Webcam then filter and start
 
                                     How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU
 
-Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then inport it into obs 
+Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
 ![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
 
