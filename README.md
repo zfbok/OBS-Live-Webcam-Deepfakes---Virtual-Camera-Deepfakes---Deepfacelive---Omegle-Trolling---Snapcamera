@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1
 **(Credit to Druuzil https://www.youtube.com/@DruuzilTechGames for creating these Models)**
 
 https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg
-**(Credit to Rumateus for making these Models)**                                                     
+**(Credit to Rumateus for creating these Models)**                                                     
                                     
                                     
                                   How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
