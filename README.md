@@ -47,6 +47,8 @@ Open DeepfaceLive.bat then after you open it up set the settings to this as a ba
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
 ![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
+![image](https://user-images.githubusercontent.com/74084396/215270900-b05e3e0f-0693-4c09-ba0d-e0d4877c159c.png)
+![image](https://user-images.githubusercontent.com/74084396/215270867-1533be0b-fa1e-46da-ab41-e0a522a25247.png)
 
 
 Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled swlays before deepfacelive is open then go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam
@@ -56,6 +58,8 @@ Then after you import the scene collection click on Webcam then filter and start
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
 ![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
+![image](https://user-images.githubusercontent.com/74084396/215270905-c14a4a36-6996-494a-83cb-54fc728799b6.png)
+![image](https://user-images.githubusercontent.com/74084396/215270859-5250365e-f24f-41c7-a3b8-0e4c70b7b067.png)
 
 Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene Video Chat Camera  
                                                
