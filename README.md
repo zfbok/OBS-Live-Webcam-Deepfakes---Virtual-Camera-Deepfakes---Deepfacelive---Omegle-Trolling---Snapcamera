@@ -12,7 +12,7 @@ Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/rele
 
 Next Download Still Working Snapcamera https://mega.nz/file/1JshGKSK#dDqpZ0R5Rt4wTuzTX_bFG90O69BSMuf2y2H1UjZCeyE then install and don't open
 
-Next Download the version of Deepfacelive for Nvidia Download the latest Nvidia Version and for Amd Download the latest Directx12 Version then when your done put it in an folder for easy access then  run it after you run it it should extract then done don't touch it yet
+Next Download the version of Deepfacelive https://mega.nz/folder/m10iELBK#Y0H6BflF9C4k_clYofC7yA for Nvidia Download the latest Nvidia Version and for Amd Download the latest Directx12 Version then when your done put it in an folder for easy access then  run it after you run it it should extract then done don't touch it yet
 
 Next if you have a RTX Nvidia Gpu Download Nvidia Broadcast https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/
                                                      
