@@ -49,8 +49,11 @@ https://discord.gg/wjsXA62HrC
 https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1  
 **(Credit to Druuzil https://www.youtube.com/@DruuzilTechGames for creating these Models)**
 
+https://drive.google.com/drive/folders/1jzJV_4f_io-j4hc-B71rdsUqBt8sEF2S
+
 https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **(Credit to Rumateus for creating these Models)**                                                                                                    
+                                               
                                                Where to put the DFM Models
 ![image](https://user-images.githubusercontent.com/74084396/215272185-95178975-cc5e-49dd-9120-8d44e2e804d8.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272192-384ef405-655b-46c6-9f0b-bea99f71fd82.png)
@@ -76,5 +79,5 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 ![image](https://user-images.githubusercontent.com/74084396/215270905-c14a4a36-6996-494a-83cb-54fc728799b6.png)
 ![image](https://user-images.githubusercontent.com/74084396/215270859-5250365e-f24f-41c7-a3b8-0e4c70b7b067.png)
 
-Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene Video Chat Camera  
+Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camerathen set HD Webcam C951 as the camera on your video Chat app  
                                                
