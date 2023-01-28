@@ -49,8 +49,7 @@ https://discord.gg/wjsXA62HrC
 https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1  
 **(Credit to Druuzil https://www.youtube.com/@DruuzilTechGames for creating these)**
 
-https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg 
-
+https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg
 **(Credit to Rumateus for making this)**                                                     
                                     
                                     
