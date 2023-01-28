@@ -1,5 +1,5 @@
 # OBS-Live-Webcam-Deepfakes---Virtual-Camera-Deepfakes---Deepfacelive---Omegle-Trolling---Snapcamera
-Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes Omegle Trolling Like Hyphonix, SomeOrdinaryChickens, Microfilms and Omegle Live Deepfakes Must Have a 1080ti or 5700xt or 3060 or 6600xt or Better The more Powerful and The Higher The Vram The Better the Deepfakes will Be
+Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes, Omegle Trolling Like Hyphonix, SomeOrdinaryChickens, Microfilms and Omegle Live Deepfakes Must Have a 1080ti or 5700xt or 3060 or 6600xt or Better The more Powerful and The Higher The Vram The Better the Deepfakes will Be
 
 
 
@@ -17,7 +17,7 @@ Next Download the version of Deepfacelive for Nvidia Download the latest Nvidia 
 Next if you have a RTX Nvidia Gpu Download Nvidia Broadcast https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/
                                                      
                                                      Now how to use the stuff
-How set pagefile
+First you need to set pagefile
 open start menu Type performance Choose Adjust the appearance and performance of Windows In the new window go to the Advanced tab and under the Virtual memory section click on Change then click on main drive then click custom size and set both initial and maximum to like 40000 or higher and make sure both are the same then click okay then click apply then restart pc
 
 ![image](https://user-images.githubusercontent.com/74084396/215216371-e142fd29-cad8-435f-a79a-d87cd96e81e3.png)
@@ -34,11 +34,28 @@ First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click ch
 ![image](https://user-images.githubusercontent.com/74084396/215221709-e44fd456-6766-4648-9378-6dd2d4dfc6b0.png)
      then after this snapcamera should work again expect for any new filter that has just come out becuase it can't be backed up to his backed up snapcam repository 
 
-                                               
+                                                     Deepfacelive Setup
+Open DeepfaceLive.bat then after you open it up set the settings to this as a base the click the window button so the output windows shows up
+![image](https://user-images.githubusercontent.com/74084396/215241460-059e72a1-289a-4549-a669-a4b4c3701bb2.png)
+![image](https://user-images.githubusercontent.com/74084396/215241749-7ff3b1cd-17e0-467b-8840-35b1414113c6.png)
+
+                                                     
+                                    
+                                    
                                     How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
 
-Download this https://mega.nz/file/dQ1jRaaI#kDfR1Y645hhi_FnubvPs5pgtOM2J71e4nmh4Il2LcAk then inport it into obs 
-![image](https://user-images.githubusercontent.com/74084396/215240073-91308de4-5cf8-4f4b-b48c-395804692cf8.png)
-![image](https://user-images.githubusercontent.com/74084396/215240077-da7f93c2-fcff-431c-94fb-6d9cb533364c.png)
+Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then inport it into obs 
+![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
+![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
 
+
+Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled swlays before deepfacelive is open then go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam
+
+                                    How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU
+
+Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then inport it into obs 
+![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
+![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
+
+Then after you import the scene collection click on Webcam then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to webcam under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene Video Chat Camera  
                                                
