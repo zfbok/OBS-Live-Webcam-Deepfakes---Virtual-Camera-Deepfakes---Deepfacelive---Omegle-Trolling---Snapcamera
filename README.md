@@ -1,4 +1,4 @@
-# OBS-LIve-Webcam-Deepfakes---Virtual-Camera-Deepfakes---Deepfacelive---Omegle-Trolling---Snapcamera
+# OBS-Live-Webcam-Deepfakes---Virtual-Camera-Deepfakes---Deepfacelive---Omegle-Trolling---Snapcamera
 Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes Omegle Trolling Like Hyphonix, SomeOrdinaryChickens, Microfilms and Omegle Live Deepfakes Must Have a 1080ti or 5700xt or 3060 or 6600xt or Better The more Powerful and The Higher The Vram The Better the Deepfakes will Be
 
 
