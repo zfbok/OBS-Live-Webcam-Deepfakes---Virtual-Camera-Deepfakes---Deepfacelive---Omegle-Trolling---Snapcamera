@@ -38,11 +38,23 @@ First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click ch
 Open DeepfaceLive.bat then after you open it up set the settings to this as a base the click the window button so the output windows shows up
 ![image](https://user-images.githubusercontent.com/74084396/215241460-059e72a1-289a-4549-a669-a4b4c3701bb2.png)
 ![image](https://user-images.githubusercontent.com/74084396/215241749-7ff3b1cd-17e0-467b-8840-35b1414113c6.png)
+                                                      
+                                             Where To Find More Faces/DFM Models
+https://discord.gg/xZhm5fcVQv
 
-                                                     
+https://discord.gg/4rQvKkPwby
+
+https://discord.gg/wjsXA62HrC
+
+https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1  
+**(Credit to Druuzil https://www.youtube.com/@DruuzilTechGames for creating these)**
+
+https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg 
+
+**(Credit to Rumateus for making this)**                                                     
                                     
                                     
-                                    How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
+                                  How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
