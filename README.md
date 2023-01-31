@@ -32,7 +32,7 @@ After PC Restart Open Obs Vcam Changer and set it to this exactly and after ever
                                                  
 First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click choose file then after that go to this location on file explorer and click on this a click open then click apply patch the once it downloads renname it to Snap Camera.exe then replace the one in the snapcmaera folder with this one **(Credit to Jaku for making this)**
 ![image](https://user-images.githubusercontent.com/74084396/215221709-e44fd456-6766-4648-9378-6dd2d4dfc6b0.png)
-     then after this snapcamera should work again expect for any new filter that has just come out becuase it can't be backed up to his backed up snapcam repository 
+     then after this snapcamera should work again expect for any new filter that has just come out becuase it can't be backed up to his backed up snapcam repository  
 
                                                      Deepfacelive Setup
 Open DeepfaceLive.bat then after you open it up set the settings to this as a base the click the window button so the output windows shows up
@@ -87,6 +87,5 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 ![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
 ![image](https://user-images.githubusercontent.com/74084396/215270900-b05e3e0f-0693-4c09-ba0d-e0d4877c159c.png)
 ![image](https://user-images.githubusercontent.com/74084396/215270867-1533be0b-fa1e-46da-ab41-e0a522a25247.png)
-
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter always first is enabled go to VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go the resize it to fit perfectly in the omegle camera preview not bigger not smaller then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your Web Browser
