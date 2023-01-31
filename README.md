@@ -42,10 +42,6 @@ Open DeepfaceLive.bat then after you open it up set the settings to this as a ba
                                              Where To Find More Faces/DFM Models
 https://discord.gg/xZhm5fcVQv
 
-https://discord.gg/4rQvKkPwby
-
-https://discord.gg/wjsXA62HrC
-
 https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1  
 **(Credit to Druuzil https://www.youtube.com/@DruuzilTechGames for creating these Models)**
 
