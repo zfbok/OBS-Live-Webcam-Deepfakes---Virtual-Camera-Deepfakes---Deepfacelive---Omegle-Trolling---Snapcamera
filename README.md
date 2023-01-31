@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1ixWWO7WbtItGcYoibvkU-GN1iF5bKtl3
 ![image](https://user-images.githubusercontent.com/74084396/215272195-74259696-7a08-48cf-a625-46ecab1642ec.png)
 
                                     
-            How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
+How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
@@ -70,7 +70,7 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter always first is enabled go to VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your video Chat app 
 
-           How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU
+How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
@@ -80,7 +80,7 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to  VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your video Chat app  
 
-           How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
+How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
