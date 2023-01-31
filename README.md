@@ -80,29 +80,7 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to  VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your video Chat app  
 
-                                    How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
-
-Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
-![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
-![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
-![image](https://user-images.githubusercontent.com/74084396/215270900-b05e3e0f-0693-4c09-ba0d-e0d4877c159c.png)
-![image](https://user-images.githubusercontent.com/74084396/215270867-1533be0b-fa1e-46da-ab41-e0a522a25247.png)
-
-
-Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter always first is enabled go to VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go the resize it to fit perfectly in the omegle camera preview not bigger not smaller then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your Web Browser
-
-                                   How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
-
-Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
-![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
-![image](https://user-images.githubusercontent.com/74084396/215265531-842c2b1d-f735-4325-a4c7-ea731d591df4.png)
-![image](https://user-images.githubusercontent.com/74084396/215270900-b05e3e0f-0693-4c09-ba0d-e0d4877c159c.png)
-![image](https://user-images.githubusercontent.com/74084396/215270867-1533be0b-fa1e-46da-ab41-e0a522a25247.png)
-
-
-Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter always first is enabled go to VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go the resize it to fit perfectly in the omegle camera preview not bigger not smaller then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your Web Browser
-
-                                   How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
+                            How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
