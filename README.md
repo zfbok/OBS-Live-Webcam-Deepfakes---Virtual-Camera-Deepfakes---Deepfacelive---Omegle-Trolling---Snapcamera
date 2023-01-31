@@ -1,7 +1,7 @@
 # OBS-Live-Webcam-Deepfakes---Virtual-Camera-Deepfakes---Deepfacelive---Omegle-Trolling---Snapcamera
 Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live Deepfakes, Snapcamera Live Deepfakes, Omegle Trolling Like Hyphonix, SomeOrdinaryChickens, Microfilms and Omegle Live Deepfakes Must Have a 1080ti or 5700xt or 3060 or 6600xt or Better The more Powerful and The Higher The Vram The Better the Deepfakes will Be
 
-
+**Join The Discord https://discord.gg/xZhm5fcVQv For Help on Doing This And Also For A Place To Hangout And Talk About this Stuff and Make DFM mdoels and and also Deepface Omegle help and other stuff**
 
 First, install the latest version of Obs Studio: https://obsproject.com/download and after that, open it up and configure it for full 1080p at 60 frames per second for Nvidia Set both streaming and recording to Nvenc and for AMD do the same thing, but instead set it to hardware h.264. Once that's done, close Obs fully.
 
