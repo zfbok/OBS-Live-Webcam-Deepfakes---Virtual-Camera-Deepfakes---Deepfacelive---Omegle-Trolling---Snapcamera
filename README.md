@@ -5,7 +5,8 @@ Help with Everything to do with Obs Live / Webcam Live Deepfakes, Omegle Live De
 
 First, install the latest version of Obs Studio: https://obsproject.com/download and after that, open it up and configure it for full 1080p at 60 frames per second for Nvidia Set both streaming and recording to Nvenc and for AMD do the same thing, but instead set it to hardware h.264. Once that's done, close Obs fully.
 
-                                              Now Lets Get To Installing all the Stuff
+**Now Lets Get To Installing all the Stuff**
+
 First Download https://github.com/Avasam/obs-virtual-cam then run the installer and select 4 virtual cameras **(Credit to Avasam for making this)**
 
 Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/releases/tag/V1.3.3-Kite_Edition Then Download the zip and extract it to a folder **(Credit to LudoDash for making this)**
@@ -16,7 +17,7 @@ Next Download the version of Deepfacelive https://mega.nz/folder/m10iELBK#Y0H6Bf
 
 Next if you have a RTX Nvidia Gpu Download Nvidia Broadcast https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/
                                                      
-                                                     Now how to use the stuff
+**Now how to use the stuff**
 First you need to set pagefile
 open start menu Type performance Choose Adjust the appearance and performance of Windows In the new window go to the Advanced tab and under the Virtual memory section click on Change then click on main drive then click custom size and set both initial and maximum to like 40000 or higher and make sure both are the same then click okay then click apply then restart pc
 
@@ -34,7 +35,8 @@ First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click ch
 ![image](https://user-images.githubusercontent.com/74084396/215221709-e44fd456-6766-4648-9378-6dd2d4dfc6b0.png)
      then after this snapcamera should work again expect for any new filter that has just come out becuase it can't be backed up to his backed up snapcam repository  
 
-                                                     Deepfacelive Setup
+**Deepfacelive Setup**
+
 Open DeepfaceLive.bat then after you open it up set the settings to this as a base the click the window button so the output windows shows up
 ![image](https://user-images.githubusercontent.com/74084396/215241460-059e72a1-289a-4549-a669-a4b4c3701bb2.png)
 ![image](https://user-images.githubusercontent.com/74084396/215241749-7ff3b1cd-17e0-467b-8840-35b1414113c6.png)
@@ -53,13 +55,14 @@ https://mega.nz/folder/37AyTAbR#0jWfi97MKGPIp5i1CEMXIg
 https://drive.google.com/drive/folders/1ixWWO7WbtItGcYoibvkU-GN1iF5bKtl3
 **(Credit to JackFJ for creating these Models)**
 
-                                               Where to put the DFM Models
+**Where to put the DFM Models**
+
 ![image](https://user-images.githubusercontent.com/74084396/215272185-95178975-cc5e-49dd-9120-8d44e2e804d8.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272192-384ef405-655b-46c6-9f0b-bea99f71fd82.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272195-74259696-7a08-48cf-a625-46ecab1642ec.png)
 
                                     
-How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive
+**How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive**
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
