@@ -28,7 +28,7 @@ After PC Restart Open Obs Vcam Changer and set it to this exactly and after ever
 ![image](https://user-images.githubusercontent.com/74084396/215219261-a6bac90c-08d4-478e-8669-4e931f26da7c.png)
 ![image](https://user-images.githubusercontent.com/74084396/215219284-e0584b10-896f-4ad3-b020-ccbf496464a9.png)
 
-                                                 How Make Snapcamera Work again
+**How Make Snapcamera Work again**
                                                  
 First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click choose file then after that go to this location on file explorer and click on this a click open then click apply patch the once it downloads renname it to Snap Camera.exe then replace the one in the snapcmaera folder with this one **(Credit to Jaku for making this)**
 ![image](https://user-images.githubusercontent.com/74084396/215221709-e44fd456-6766-4648-9378-6dd2d4dfc6b0.png)
@@ -39,7 +39,7 @@ Open DeepfaceLive.bat then after you open it up set the settings to this as a ba
 ![image](https://user-images.githubusercontent.com/74084396/215241460-059e72a1-289a-4549-a669-a4b4c3701bb2.png)
 ![image](https://user-images.githubusercontent.com/74084396/215241749-7ff3b1cd-17e0-467b-8840-35b1414113c6.png)
                                                       
-                                             Where To Find More Faces/DFM Models
+**Where To Find More Faces/DFM Models**
 https://discord.gg/xZhm5fcVQv
 
 https://drive.google.com/drive/folders/1tH-8SXb5R4-W1c3wIVXy4aYnZOP0Om-1  
@@ -70,7 +70,7 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter always first is enabled go to VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your video Chat app 
 
-How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU
+**How to do Snapcamera and Virtual GreenScreen If You Have Nvidia GPU Live Webcam Deepfakes using OBS and DeepfaceLive and Snapcamera optional Nvidia Broadcast if you have a Nvidia GPU**
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
@@ -80,7 +80,7 @@ Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLn
 
 Then after you import the scene collection click go to VideoChat Camera scene then click on DeepFaceLiveOuput under sources then filter and start the obs virtual camera then once obs virtual camera filter is enabled go to  VideoChat Camera under scenes and then open DeepfaceLive.bat then change camera to your webcam or snacamera if using that or if using Nvidia Broadcast then set Camera in Nvidia Broadcast to Snapcamera Then in DeepfaceLive Set it to Nvidia Broadcast Camera then after in obs open the window capture source and set it as DeepfaceLive Output and then after that right click the window capture then go to transform then go to scretch to screen then click back on Scene VideoChat Camera then Set HD Webcam C951 as the camera on your video Chat app  
 
-How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle
+**How to do Normal Live Webcam Deepfakes using OBS and DeepfaceLive in Omegle**
 
 Download this https://mega.nz/file/ZcliRBZI#gACApYV9oNR0wXSyzXcL7mQuNLi6lYTOwRLnaLwcuXI then import it into obs 
 ![image](https://user-images.githubusercontent.com/74084396/215265513-e2379066-0b6b-44c1-9dd1-0976a26ce33a.png)
