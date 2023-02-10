@@ -31,7 +31,7 @@ After PC Restart Open Obs Vcam Changer and set it to this exactly and after ever
 
 **How Make Snapcamera Work again**
                                                  
-First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click choose file then after that go to this location on file explorer and click on this a click open then click apply patch the once it downloads renname it to Snap Camera.exe then replace the one in the snapcmaera folder with this one **(Credit to Jaku for making this)**
+First Go to this website https://snapchatreverse.jaku.tv/snap/ and then click choose file then after that go to this location on file explorer and click on this a click open then click apply patch the once it downloads renname it to Snap Camera.exe then replace the one in the snapcamera folder with this one **(Credit to Jaku for making this)**
 ![image](https://user-images.githubusercontent.com/74084396/215221709-e44fd456-6766-4648-9378-6dd2d4dfc6b0.png)
      then after this snapcamera should work again expect for any new filter that has just come out becuase it can't be backed up to his backed up snapcam repository  
 
